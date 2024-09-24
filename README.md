@@ -1,4 +1,4 @@
-## Product Demand Forecasting 
+## Big Mart Sales Forecasting
 
 This project focuses on predicting product sales across different retail outlets using advanced machine learning techniques. By leveraging a dataset that includes product and outlet information, the goal is to develop a model that accurately forecasts Item_Outlet_Sales. The project involves detailed data preprocessing, exploratory data analysis, and model training using the XGBoost Regressor.
 
